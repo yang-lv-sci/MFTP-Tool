@@ -1,7 +1,6 @@
 # MFTP-Tool
-> 2023/8/5  
+2023/8/5  
 ![image](picture.jpg)
-> 
 An improved machine-learning based prediction tool for identifying multi-functional therapeutic peptides (MFTPs)
 was implemented in python 3.7
 
